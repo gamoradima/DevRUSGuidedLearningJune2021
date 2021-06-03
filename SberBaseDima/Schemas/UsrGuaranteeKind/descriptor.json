@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4ff4eaa-df97-405a-8ba3-6adeeb2e48b1",
+    "Name": "UsrGuaranteeKind",
+    "ModifiedOnUtc": "\/Date(1622718862000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Вид залога"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab6dc506-d38a-4e9b-8853-11b53991bac0",
+    "Name": "UsrGuaranteeFolder",
+    "ModifiedOnUtc": "\/Date(1622718874000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Залоги"
+  }
+}

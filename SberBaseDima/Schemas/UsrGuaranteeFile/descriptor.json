@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f74456d-b5a0-479f-bef5-31eec878cf7c",
+    "Name": "UsrGuaranteeFile",
+    "ModifiedOnUtc": "\/Date(1622718869000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Залоги"
+  }
+}

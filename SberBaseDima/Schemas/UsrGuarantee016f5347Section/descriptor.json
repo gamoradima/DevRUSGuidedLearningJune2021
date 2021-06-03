@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef6f8f25-0141-4a9b-b8f5-4fac321cd013",
+    "Name": "UsrGuarantee016f5347Section",
+    "ModifiedOnUtc": "\/Date(1622718851000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Залоги\""
+  }
+}

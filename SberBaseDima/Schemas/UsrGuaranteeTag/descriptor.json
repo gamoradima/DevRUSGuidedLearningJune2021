@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c8934a35-4ddf-4099-82f4-3df0efd1074e",
+    "Name": "UsrGuaranteeTag",
+    "ModifiedOnUtc": "\/Date(1622718881000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Залоги"
+  }
+}

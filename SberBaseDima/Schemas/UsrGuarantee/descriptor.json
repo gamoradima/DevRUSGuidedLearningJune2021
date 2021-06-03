@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "467901ca-0d7d-492b-a3c1-3e229d33ec37",
+    "Name": "UsrGuarantee",
+    "ModifiedOnUtc": "\/Date(1622718865000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Залоги"
+  }
+}
