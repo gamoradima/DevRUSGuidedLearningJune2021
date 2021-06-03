@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "198dd4be-93cc-08b2-7a7f-4ee748c24ee7",
+    "Name": "SberBaseDima",
+    "ModifiedOnUtc": "\/Date(1622623576000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

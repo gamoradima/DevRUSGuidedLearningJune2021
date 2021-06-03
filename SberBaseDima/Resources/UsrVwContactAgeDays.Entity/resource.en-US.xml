@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Object" />
+			<Item Name="Columns.UsrAgeDays.Caption" Value="Возраст в днях" />
+			<Item Name="Columns.UsrBirthDate.Caption" Value="Дата рождения" />
+			<Item Name="Columns.UsrId.Caption" Value="Id" />
+			<Item Name="Columns.UsrName.Caption" Value="ФИО" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

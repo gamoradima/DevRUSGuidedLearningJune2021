@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "317bcd25-2d60-426b-b886-13eeb06b7c15",
+    "Name": "UsrESQTestCSharpProcess",
+    "ModifiedOnUtc": "\/Date(1622708604000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Проверка ESQ"
+  }
+}
