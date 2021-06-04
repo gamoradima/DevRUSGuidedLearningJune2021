@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "020d9e3d-33ec-4de2-aa8c-b81da48a760f",
+    "Name": "UsrTestOutputPage",
+    "ModifiedOnUtc": "\/Date(1622800162000)\/",
+    "Parent": {
+      "UId": "21620f25-166f-42f1-8b4d-224a959040a3",
+      "Name": "BasePageProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Тестовая страница вывода"
+  }
+}

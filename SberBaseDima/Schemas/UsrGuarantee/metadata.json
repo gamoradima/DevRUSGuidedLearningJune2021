@@ -139,11 +139,39 @@
   "A5": "66108f10-e008-49e3-84e7-230aeec78c90",
   "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","f9d367a9-7e93-420c-8d1c-47116a79e6f7","d56f43c5-8edd-4598-8c36-66d551024796","48918c0e-293a-4dd6-9dda-45a70a7bc5fc","79223df0-2ae2-4734-9d84-1c1d9d3702de","3f4c750b-b4e0-447e-b257-7cbcc6570e84","52545336-8b84-43af-b7d4-4d7f8435b50a"]
++ MetaData.Schema.D2 {
+  "UId": "288454c9-7ed5-4771-acb0-f105bd0aab2c",
+  "A2": "UsrInsurancePayment",
+  "A3": "467901ca-0d7d-492b-a3c1-3e229d33ec37",
+  "A4": "467901ca-0d7d-492b-a3c1-3e229d33ec37",
+  "A5": "66108f10-e008-49e3-84e7-230aeec78c90",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "ec669377-ff0d-4a84-9e9e-2c337be9a82b",
+  "A2": "UsrStatus",
+  "A3": "467901ca-0d7d-492b-a3c1-3e229d33ec37",
+  "A4": "467901ca-0d7d-492b-a3c1-3e229d33ec37",
+  "A5": "66108f10-e008-49e3-84e7-230aeec78c90",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "3c8a5eb8-5489-4e9b-a3a8-9d54fdcf6f0c",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "a181f38a-1433-445a-af5b-79b61d08fdaf"
+  },
+  "E17": "UsrStatusId",
+  "E18": "UsrStatusName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","f9d367a9-7e93-420c-8d1c-47116a79e6f7","d56f43c5-8edd-4598-8c36-66d551024796","48918c0e-293a-4dd6-9dda-45a70a7bc5fc","79223df0-2ae2-4734-9d84-1c1d9d3702de","3f4c750b-b4e0-447e-b257-7cbcc6570e84","52545336-8b84-43af-b7d4-4d7f8435b50a","288454c9-7ed5-4771-acb0-f105bd0aab2c","ec669377-ff0d-4a84-9e9e-2c337be9a82b"]
+= MetaData.Schema.D20.A2 "UsrGuaranteeEvents"
 - MetaData.Schema.EG1.BK29
 - MetaData.Schema.EG1.BK30
 - MetaData.Schema.D1
-- MetaData.Schema.D20
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA15
 - MetaData.Schema.B7
 + MetaData.Schema.B7 false
 + MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false

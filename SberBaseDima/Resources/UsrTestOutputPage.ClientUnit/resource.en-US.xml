@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тестовая страница вывода" />
+			<Item Name="LocalizableStrings.Button1ButtonCaption.Value" Value="Кнопка 1" />
+			<Item Name="LocalizableStrings.ContactType1DataModelCaption.Value" Value="Тип контакта" />
+			<Item Name="LocalizableStrings.NewTab1Group1Caption.Value" Value="Тестируем чтение данных из БД - Тип контакта" />
+			<Item Name="Parameters.39a9a858-b62b-4846-894d-e130f4c508a0.Caption" Value="Тип контакта" />
+			<Item Name="Parameters.42ef9f7b-26b7-4d82-acbc-20d1dfebf8ef.Caption" Value="Список контрагентов" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.19c95356-5870-45de-900e-c26170bc65d6.Caption" Value="Кнопка 1" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Сохранить" />
+		</Items>
+	</Group>
+</Resources>

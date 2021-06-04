@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c8a5eb8-5489-4e9b-a3a8-9d54fdcf6f0c",
+    "Name": "UsrGuaranteeStatus",
+    "ModifiedOnUtc": "\/Date(1622801193000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние залога"
+  }
+}

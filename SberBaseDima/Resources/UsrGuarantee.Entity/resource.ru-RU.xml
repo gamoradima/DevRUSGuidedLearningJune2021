@@ -4,11 +4,13 @@
 		<Items>
 			<Item Name="Caption" Value="Залоги" />
 			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrInsurancePayment.Caption" Value="Страховой платёж, р" />
 			<Item Name="Columns.UsrKind.Caption" Value="Вид" />
 			<Item Name="Columns.UsrName.Caption" Value="Название" />
 			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
 			<Item Name="Columns.UsrOwner.Caption" Value="Владелец" />
 			<Item Name="Columns.UsrPrice.Caption" Value="Цена, р" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Состояние" />
 		</Items>
 	</Group>
 </Resources>

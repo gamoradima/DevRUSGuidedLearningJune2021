@@ -2,11 +2,44 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Caption" Value="Кнопки" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[{&quot;ItemUId&quot;:&quot;f073e66a-36ec-47d7-9c6a-e5952dbf05a3&quot;,&quot;Id&quot;:{&quot;value&quot;:&quot;f073e66a-36ec-47d7-9c6a-e5952dbf05a3&quot;},&quot;Name&quot;:{&quot;value&quot;:&quot;Button-be6148b819154a0791eaee8f1635d859&quot;},&quot;Tag&quot;:{&quot;value&quot;:&quot;SaveData&quot;},&quot;Caption&quot;:{&quot;isLczValue&quot;:true,&quot;value&quot;:&quot;Сохранить&quot;},&quot;PerformClosePage&quot;:{&quot;value&quot;:&quot;True&quot;},&quot;PerformSaveData&quot;:{&quot;value&quot;:&quot;True&quot;},&quot;GenerateSignal&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;ItemUId&quot;:&quot;c4841740-ff8c-406f-8626-1c78f78608bf&quot;,&quot;Id&quot;:{&quot;value&quot;:&quot;c4841740-ff8c-406f-8626-1c78f78608bf&quot;},&quot;Name&quot;:{&quot;value&quot;:&quot;Button-3a8ac667899d4aa68021a07eb1c7c49c&quot;},&quot;Tag&quot;:{&quot;value&quot;:&quot;ClosePage&quot;},&quot;Caption&quot;:{&quot;isLczValue&quot;:true,&quot;value&quot;:&quot;Закрыть&quot;},&quot;PerformClosePage&quot;:{&quot;value&quot;:&quot;False&quot;},&quot;PerformSaveData&quot;:{&quot;value&quot;:&quot;False&quot;},&quot;GenerateSignal&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;ItemUId&quot;:&quot;19c95356-5870-45de-900e-c26170bc65d6&quot;,&quot;Id&quot;:{&quot;value&quot;:&quot;19c95356-5870-45de-900e-c26170bc65d6&quot;},&quot;Name&quot;:{&quot;value&quot;:&quot;Button-b774318e7d8f4a29910d6c3b1c13520b&quot;},&quot;Tag&quot;:{&quot;value&quot;:&quot;Button1&quot;},&quot;Caption&quot;:{&quot;isLczValue&quot;:true,&quot;value&quot;:&quot;Кнопка 1&quot;},&quot;PerformClosePage&quot;:{&quot;value&quot;:&quot;True&quot;},&quot;PerformSaveData&quot;:{&quot;value&quot;:&quot;True&quot;},&quot;GenerateSignal&quot;:{&quot;value&quot;:&quot;&quot;}}]}" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.19c95356-5870-45de-900e-c26170bc65d6.Caption" Value="Кнопка 1" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Сохранить" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="Module" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.DisplayValue" Value="Тестовая страница вывода | UsrTestOutputPage" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntryPointId.Caption" Value="Entry point" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="Running" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="Card module" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.DisplayValue" Value="[#Lookup.90fa6d02-3e93-45d6-a72b-58dcffa411ae.eb89c336-08b9-4951-bffd-3f5abc433174#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Code of the button that the user clicked" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.Caption" Value="Template" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.DisplayValue" Value="[#Lookup.90fa6d02-3e93-45d6-a72b-58dcffa411ae.21620f25-166f-42f1-8b4d-224a959040a3#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Caption" Value="Title" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.DisplayValue" Value="Тестовая страница вывода" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Тестовая страница вывода" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.Caption" Value="Url" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.DisplayValue" Value="&quot;[Module]/[Page]/add&quot;" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.Caption" Value="Use standard page generator" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UsrContacttype1.Caption" Value="Тип контакта" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UsrString1.Caption" Value="Список контрагентов" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UsrString1.DisplayValue" Value="[#Названия фирм#]" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="пример применения ESQ" />
 			<Item Name="Caption" Value="Проверка ESQ" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
 			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.AccountNamesParameter.Caption" Value="Названия фирм" />
 		</Items>
 	</Group>
 </Resources>

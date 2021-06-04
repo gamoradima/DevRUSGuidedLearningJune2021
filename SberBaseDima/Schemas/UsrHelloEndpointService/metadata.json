@@ -1,0 +1,73 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "1a3a69b0-fbf2-460d-a11a-eb3b293d8582",
+      "A2": "UsrHelloEndpointService",
+      "A5": "66108f10-e008-49e3-84e7-230aeec78c90",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "198dd4be-93cc-08b2-7a7f-4ee748c24ee7",
+      "B8": "7.18.0.1353",
+      "IQ1": "http://www.learnwebservices.com/services/hello",
+      "IQ2": 2,
+      "IQ7": [
+        {
+          "UId": "c3e6bb78-aa89-4413-8bc8-c8a9b7702645",
+          "A2": "http://learnwebservices.com/services/hello",
+          "A3": "1a3a69b0-fbf2-460d-a11a-eb3b293d8582",
+          "A4": "1a3a69b0-fbf2-460d-a11a-eb3b293d8582",
+          "JG1": "tem",
+          "JG2": true
+        }
+      ],
+      "IQ4": [
+        {
+          "UId": "a6b084fb-97ab-d427-1f20-0a65bb5fe327",
+          "A2": "UsrSHello",
+          "A3": "1a3a69b0-fbf2-460d-a11a-eb3b293d8582",
+          "A4": "1a3a69b0-fbf2-460d-a11a-eb3b293d8582",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "19716dd1-d603-8974-5955-6864054a4e4b",
+                "A2": "UsrName",
+                "IU1": "tem:HelloRequest/tem:Name",
+                "IU2": "Text",
+                "IU8": "tem:Name",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "SayHello"
+          },
+          "IR2": {
+            "IW2": 2,
+            "IW1": [
+              {
+                "UId": "29f8ee48-314a-248e-0efc-3295d2839603",
+                "A2": "UsrMessage",
+                "IU1": "tem:HelloResponse/tem:Message",
+                "IU2": "Text",
+                "IU8": "tem:Message",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
